@@ -15,6 +15,17 @@ If you are looking for the closest Sequel Pro Theme using Solarized colors, look
 
 *ColorScheme*
 
+Screenshots
+-----------
+
+![Dark scheme](https://github.com/leothelocust/raw/master/sequelpro-solarized-colorscheme/solarized-dark.png)
+
+*Dark scheme*
+
+![Light scheme](https://github.com/leothelocust/raw/master/sequelpro-solarized-colorscheme/solarized-light.png)
+
+*Light scheme*
+
 Installation instructions
 =========================
 
