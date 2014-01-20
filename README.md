@@ -4,7 +4,7 @@ Sequel Pro Solarized Colorscheme
 [Sequel Pro](http://www.sequelpro.com/) with [Solarized](http://ethanschoonover.com/solarized) Syntax Highlighting.
 Ref. [Solarized on GitHub](https://github.com/altercation/solarized).
 
-Solarized ColorScheme/Theme for Sequel Pro
+ColorScheme for Sequel Pro
 ==========================================
 
 In an effort to more closely match the real Ethan Schoonover Solarized colors, I've made this version of syntax highlighting for [Sequel Pro](http://www.sequelpro.com/).
@@ -13,7 +13,7 @@ In an effort to more closely match the real Ethan Schoonover Solarized colors, I
 
 If you are looking for the closest Sequel Pro Theme using Solarized colors, look no further.
 
-*Solarized ColorScheme/Theme for Sequel Pro*
+*ColorScheme*
 
 Installation instructions
 =========================
