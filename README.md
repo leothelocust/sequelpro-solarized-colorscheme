@@ -11,7 +11,7 @@ If you are looking for the closest Solarized Theme for Sequel Pro, look no furth
 
 In an effort to more closely match the real Ethan Schoonover Solarized colors, I've made this version of syntax highlighting for [Sequel Pro](http://www.sequelpro.com/).
 
-[kylewest](https://github.com/kylewest/solarized) does a pretty good job with this already, but the color palette is a bit different than Ethan Schoonover's original design.
+[kylewest](https://github.com/kylewest/solarized/tree/master/sequelpro-colors-solarized) does a pretty good job with this already, but the color palette is a bit different than Ethan Schoonover's original design.
 
 Screenshots
 -----------
